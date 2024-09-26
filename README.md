@@ -37,5 +37,3 @@ The code implementation includes methods to perform each operation and measure t
 ## Usage
 Clone the repository and run the `ArrayOperationsTimeComplexity` class to observe the time taken for each operation as the size of the array or `ArrayList` increases. Modify the sizes and operations as needed to explore the performance characteristics further.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
